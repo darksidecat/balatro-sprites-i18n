@@ -49,7 +49,7 @@ function generateTarotsSheet(locale, zoneData, consumablesLocales, fontPath) {
     return sharp({
       text: {
         text: composite.text,
-        font: "Balatro Extended (Consumable Cards)",
+        font: "Smallest Pixel-7 20",
         dpi: 36,
         fontfile: fontPath,
       },

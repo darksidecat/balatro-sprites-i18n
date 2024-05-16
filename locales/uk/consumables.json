@@ -1,0 +1,74 @@
+{
+  "overrides": {
+    "_comment": "Override stuff from zones.json in this section. It's like an escape hatch!",
+    "Tarots.png": {
+      "c_black_hole": {
+        "_comment": "We never had the force to implement the distortion, so we do it manually.",
+        "filename": "black-hole.png",
+        "location": [1302, 610]
+      }
+    }
+  },
+  "tarots": {
+    "_comment": "Translate tarots cards here. Uppercase is bold, lowercase is regular.",
+    "c_fool": "ДУРЕНЬ",
+    "c_magician": "МАГ",
+    "c_high_priestess": "ВЕРХОВНА ЖРИЦЯ",
+    "c_empress": "ІМПЕРАТРИЦЯ",
+    "c_emperor": "ІМПЕРАТОР",
+    "c_heirophant": "Ієрофант",
+    "c_lovers": "Закохані",
+    "c_chariot": "Колісниця",
+    "c_justice": "Справедливість",
+    "c_hermit": "Пустельник",
+    "c_wheel_of_fortune": "Колесо Фортуни",
+    "c_strength": "Сила",
+    "c_hanged_man": "Повішений",
+    "c_death": "Смерть",
+    "c_temperance": "Поміреність",
+    "c_devil": "Диявол",
+    "c_tower": "Башта",
+    "c_star": "Зірка",
+    "c_moon": "Місяць",
+    "c_sun": "Сонце",
+    "c_judgement": "Страшний суд",
+    "c_world": "Світ"
+  },
+  "planets": {
+    "_comment": "Translate planets cards here. Uppercase is bold, lowercase is regular.",
+    "c_mercury": "Меркурій",
+    "c_venus": "Венера",
+    "c_earth": "Земля",
+    "c_mars": "Марс",
+    "c_jupiter": "Юпітер",
+    "c_saturn": "Сатурн",
+    "c_uranus": "Уран",
+    "c_neptune": "Нептун",
+    "c_pluto": "Плутон",
+    "c_ceres": "Церера",
+    "c_planet_x": "Планета X",
+    "c_eris": "Еріс"
+  },
+  "spectrals": {
+    "_comment": "Translate spectral cards here. Uppercase is bold, lowercase is regular.",
+    "c_familiar": "Фамільяр",
+    "c_grim": "Зловісність",
+    "c_incantation": "Заклинання",
+    "c_talisman": "Талісман",
+    "c_aura": "Аура",
+    "c_wraith": "Мара",
+    "c_sigil": "Сигіл",
+    "c_ouija": "Віджа",
+    "c_ectoplasm": "Ектоплазма",
+    "c_immolate": "Жертвоприношення",
+    "c_soul": "Душа",
+    "__comment": "Here, we don’t translate it (null), but we provide an override so it's okay!",
+    "c_black_hole": null,
+    "c_ankh": "Анкх",
+    "c_deja_vu": "Дежавю",
+    "c_hex": "Прокляття",
+    "c_trance": "Транс",
+    "c_medium": "Медіум",
+    "c_cryptid": "Криптид"
+  }
+}

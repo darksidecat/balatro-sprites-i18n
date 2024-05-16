@@ -16,7 +16,7 @@ fs.mkdirSync(`dist/${locale}/1x`, { recursive: true });
 fs.mkdirSync(`dist/${locale}/2x`, { recursive: true });
 
 const fontPath = fs.realpathSync(
-  "assets/balatro-extended-consumable-cards.ttf"
+  "assets/smallest_pixel-7.ttf"
 );
 const zoneData = JSON.parse(fs.readFileSync("blanks/zones.json", "utf8"));
 
