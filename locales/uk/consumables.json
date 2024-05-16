@@ -7,6 +7,32 @@
         "filename": "black-hole.png",
         "location": [1302, 610]
       }
+    },
+    "boosters.png": {
+      "bs_jb1": {
+        "location": [28, 410]
+      },
+      "bs_jb2": {
+        "location": [170, 410]
+      },
+      "bs_jb3": {
+        "location": [28, 600]
+      },
+      "bs_jb4": {
+        "location": [170, 600]
+      },
+      "bs_jb5": {
+        "location": [312, 790]
+      },
+      "bs_jb6": {
+        "location": [28, 1362]
+      },
+      "bs_jb7": {
+        "location": [170, 1362]
+      },
+      "bs_jb8": {
+        "location": [312, 1550]
+      }
     }
   },
   "tarots": {
